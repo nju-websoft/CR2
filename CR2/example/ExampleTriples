@@ -1,0 +1,13 @@
+Paper01,author,Alice
+Paper01,isAcceptedAt,IJCAI2020
+Paper02,author,Bob
+Paper02,author,Erin
+Paper02,author,Frank
+Paper02,isAcceptedAt,IJCAI2020
+Paper03,author,Carol
+Paper03,isAcceptedAt,IJCAI2020
+IJCAI2020,memberOfPC,DanmemberOfPC
+Dan,doctoralStudent,Erin
+Alice,partner,Erin
+Alice,birthPlace,Beijing
+Dan,birthPlace,Beijing

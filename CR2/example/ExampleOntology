@@ -1,0 +1,11 @@
+Article,subClassOf,WrittenWork
+WrittenWork,subClassOf,Work
+Work,subClassOf,Things
+Conference,subClassOf,Things
+Person,subClassOf,Agent
+Agent,subClassOf,Things
+Scientist,subClassOf,Person
+City,subClassOf,Settlement
+Settlement,subClassOf,PopulatedPlace
+PopulatedPlace,subClassOf,Place
+Place,subClassOf,Things

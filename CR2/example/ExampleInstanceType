@@ -1,0 +1,11 @@
+Paper01,isA,Article
+Paper02,isA,Article
+Paper03,isA,Article
+IJCAI2020,isA,Conference
+Alice,isA,Person
+Bob,isA,Person
+Erin,isA,Person
+Frank,isA,Person
+Carol,isA,Person
+Dan,isA,Scientist
+Beijing,isA,City
